@@ -12,6 +12,7 @@ export const ClassifyStyle = styled.div`
    position:fixed;
    top:0;
    left:0;
+   
 `
 export const ClassifyStyleSearch = styled.div`
      width:100%;

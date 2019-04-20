@@ -42,6 +42,8 @@ export const ClassifyStyleHotSell = styled.div`
            border-radius:.13rem;
 
         }
+     }       
      }
+    
     
 `
